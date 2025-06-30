@@ -1,0 +1,3 @@
+# White House Visitor Log Analysis
+This analysis included a data engineering pipeline to consolidate a number of disparate sources, coupled with a visualization-centric analysis to evaluate the scheduling performance of the White House event team.
+The prescriptions provided in the notebook are intended to help the prospective audience, and aren't to be taken as professional counsel in this hypothetical scenario.
